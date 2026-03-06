@@ -25,5 +25,5 @@ tasks:
   doc_read:
     desc: serve the doc locally with the search option
     cmds:
-      - npm run build > /dev/null && http-server dist -p 4444
+      - cd doc && npm run build > /dev/null && http-server dist -p 4444
 

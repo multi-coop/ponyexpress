@@ -5,8 +5,6 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
     site: 'https://multi-coop.gitlab.io',
     base: '/',
-    outDir: '../public',
-    publicDir: 'static',
     integrations: [
         starlight({
             title: 'PonyExpress-DOC',
