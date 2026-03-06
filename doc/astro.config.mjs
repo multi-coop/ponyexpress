@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://multi-coop.gitlab.io',
-    base: '/',
+    site: 'https://multi-coop.github.io',
+    base: '/ponyexpress',
     integrations: [
         starlight({
             title: 'PonyExpress-DOC',
