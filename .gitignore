@@ -1,0 +1,8 @@
+
+doc/dist/
+
+generated/
+
+shell.nix
+
+.idea/
