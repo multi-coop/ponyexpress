@@ -15,7 +15,7 @@ GRIST_TABLE = os.environ['GRIST_TABLE']
 GRIST_PDF_COLUMN = None
 
 # Access information to the TYPST template
-TEMPLATE_NAME = "contrat_pedagogique" # must also be the name of the template folder
+TEMPLATE_NAME = "contrat_pedagogique"
 TEMPLATE_FILENAME = "contrat_pedagogique_template"
 TEMPLATE_FOLDERNAME = "contrat_pedagogique"
 
